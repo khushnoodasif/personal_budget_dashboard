@@ -1,0 +1,10 @@
+expense,amount,start_date,end_date,bill_granularity,status,beneficiary
+car insurance,200,07/03/2022,12/07/2023,monthly,inactive,chris
+subscriptions,330,01/04/2022,12/08/2023,yearly,active,barry
+groceries,70,09/09/2022,03/26/2024,yearly,inactive,chris
+electronics,70,06/05/2022,08/07/2025,yearly,active,barry
+clothing,350,03/10/2022,07/31/2024,yearly,active,diana
+subscriptions,190,10/21/2021,12/17/2023,yearly,active,diana
+education,470,04/11/2022,06/10/2025,monthly,inactive,alan
+education,390,04/19/2023,08/22/2023,yearly,inactive,diana
+electronics,70,01/06/2022,03/04/2025,monthly,active,diana
