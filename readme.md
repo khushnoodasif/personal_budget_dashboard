@@ -8,8 +8,8 @@ Main Dashboard for Budget:
     * filter to show bills outgoing per person
     * filter to show bills outgoing per space/pot
 
-  Table: 
-    1. Fixed Monthly Bills (in order based on bill due day) and total cost for current month.
-    2. Fixed Yearly Bills (in order based on due date) and total cost for current year.
-    3. Fixed Monthly Bills (in order based on bill due day) and total cost for current month and added filters such as bank.
+Table: 
+  1. Fixed Monthly Bills (in order based on bill due day) and total cost for current month.
+  2. Fixed Yearly Bills (in order based on due date) and total cost for current year.
+  3. Fixed Monthly Bills (in order based on bill due day) and total cost for current month and added filters such as bank.
 
